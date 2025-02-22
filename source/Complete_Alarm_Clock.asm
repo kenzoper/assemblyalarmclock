@@ -1,5 +1,3 @@
-; an ISR for timer 2; b) Generates a 2kHz square wave at pin P1.7 using
-; an ISR for timer 0; and c) in the 'main' loop it displays the variable
 
 $NOLIST
 $MODN76E003
